@@ -1,4 +1,4 @@
-API = '8008288734:AAF9GenuyNrCuauqNPt32HMr_RCYr31VbbI'
+API = 'Ключи'
 
 priceM = 1500
 priceL = 2000
